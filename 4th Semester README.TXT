@@ -2,11 +2,6 @@
 
 The program counts the number of articles(a, an, the) and dates(all valid dates) for all the paragraphs seperately which are read from the input file.
 
-#Group members name:
-
-1.Surya Pratap Singh Karki (Roll number: 2008739) (Branch: CS)
-2.Arushi Rawat (Roll number: 2008912) (Branch: IT)
-
 #Programing Language used:
 
 C++
